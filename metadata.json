@@ -1,0 +1,7 @@
+{
+  "name": "Aapni Gapsap",
+  "description": "A vibrant social conversation platform to record & share Reels, Stories, explore nearby hotspots, and connect with people.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
